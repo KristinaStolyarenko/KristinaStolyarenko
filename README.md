@@ -32,4 +32,4 @@ ___
 :iphone: Mobile tests https://github.com/KristinaStolyarenko/DiplomMobile
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaStolyarenko&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaStolyarenko&show_icons=true&theme=cobalt)
