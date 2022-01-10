@@ -3,14 +3,13 @@
 I'm a QA engineer from St. Petersburg
 ___
 
-:woman_office_worker: I’m currently working at [Monopoly.Online](https://monopoly.ru/) and at the startup [Pet-Yes](https://pet-yes.com/) 
+:woman_office_worker: I’m currently working at https://www.alfabank.ru/
 
 :books: I'm currently studying [qa.guru](https://qa.guru/) courses
 ___
 
 ### :mailbox: Contacts
-- Telegram: https://t.me/levikss
-- LinkedIn: https://www.linkedin.com/in/victoria-leibush
+- Telegram: https://t.me/krissirin
 ___
 
 ### :gear: My skills
@@ -26,11 +25,11 @@ ___
 
 ### :heavy_check_mark: My projects after qa.guru courses
 
-:computer: Web tests https://github.com/LeibushVictoria/PetYesTests
+:computer: Web tests https://github.com/KristinaStolyarenko/restoclub-tests
 
-:hammer_and_wrench: API tests https://github.com/LeibushVictoria/SimpleRestAssured
+:hammer_and_wrench: API tests https://github.com/KristinaStolyarenko/RestAssured
 
-:iphone: Mobile tests https://github.com/LeibushVictoria/mobile-browserstack
+:iphone: Mobile tests https://github.com/KristinaStolyarenko/DiplomMobile
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaStolyarenko&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaStolyarenko&show_icons=true&theme=highcontrast)
