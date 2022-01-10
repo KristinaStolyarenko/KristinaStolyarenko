@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a QA engineer from St. Petersburg
+I'm a QA engineer from Moscow
 ___
 
 :woman_office_worker: I’m currently working at https://www.alfabank.ru/
